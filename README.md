@@ -33,6 +33,12 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </div>
 
+<h2 align="center"> ✨ Activity ✨ </h2>
+
+<div align="center">
+  - KUSITMS 27 (2023.03 ~ )
+</div>
+
 <h2 align="center"> 🦝 Me 🦝 </h2>
 
 <div align="center">
@@ -44,8 +50,10 @@
   </a>&nbsp
   
   <br />
-
+  
+  
   ![leehyewon0531's github stats](https://github-readme-stats.vercel.app/api?username=leehyewon0531&show_icons=true) 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehyewon0531&layout=compact)](https://github.com/leehyewon0531)
 </div>
+
 
