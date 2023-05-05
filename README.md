@@ -36,7 +36,7 @@
 <h2 align="center"> ✨ Activity ✨ </h2>
 
 <div align="center">
-  - KUSITMS 27 (2023.03 ~ )
+  ✔ KUSITMS 27 (2023.03 ~ )
 </div>
 
 <h2 align="center"> 🦝 Me 🦝 </h2>
