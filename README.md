@@ -51,8 +51,8 @@
 <h2 align="center"> ✨ Activity ✨ </h2>
 
 <div align="center">
-  ✔ KUSITMS 27th (2023.03 ~ 2023.05) <br />
   ✔ 2023 Soongsil Start-up Internship - Luv.D (2023.06.22 ~ 2023.08.02)
+  ✔ KUSITMS 27th (2023.02 ~ 2023.05) <br />
 </div>
 
 <h2 align="center"> 🦝 Me 🦝 </h2>
