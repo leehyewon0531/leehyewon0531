@@ -51,7 +51,6 @@
 <h2 align="center"> ✨ Activity ✨ </h2>
 
 <div align="center">
-  ✔ Goormthon Univ. Soongsil 1th (2023.10.07 ~ 2023.11.19 예정) <br />
   ✔ 2023 Soongsil Start-up Internship - Luv.D (2023.06.22 ~ 2023.08.02) <br />
   ✔ KUSITMS 27th (2023.02 ~ 2023.05) <br />
 </div>
