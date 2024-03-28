@@ -54,7 +54,6 @@
 <div align="center">
   ✔ SK Devocean Young 3rd (2024.03 ~ 2024.12 예정) <br />
   ✔ SAMSUNG Finance Academy (2024.02.19 ~ 2024.02.23) <br />
-  ✔ woowahan tech course 6th free course (2023.10.19 ~ 2023.11.15) <br />
   ✔ 2023 Soongsil Start-up Internship - Luv.D (2023.06.22 ~ 2023.08.02) <br />
   ✔ KUSITMS 27th (2023.02 ~ 2023.05) <br />
 </div>
