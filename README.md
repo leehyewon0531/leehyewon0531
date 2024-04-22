@@ -52,10 +52,11 @@
 <h2 align="center"> ✨ Activity ✨ </h2>
 
 <div align="center">
-  ✔ SK Devocean Young 3rd (2024.03 ~ 2024.12 예정) <br />
-  ✔ SAMSUNG Finance Academy (2024.02.19 ~ 2024.02.23) <br />
+  ✔ SK Devocean Young 3기 (2024.03 ~ 2024.12 예정) <br />
+  ✔ 국립중앙도서관 청년 디지털 봉사단 잇(IT)다 4기 (2024.03.29 ~ 2024.4.18) <br />
+  ✔ 삼성생명 금융 아카데미 (2024.02.19 ~ 2024.02.23) <br />
   ✔ 2023 Soongsil Start-up Internship - Luv.D (2023.06.22 ~ 2023.08.02) <br />
-  ✔ KUSITMS 27th (2023.02 ~ 2023.05) <br />
+  ✔ 한국대학생IT경영학회 KUSITMS 27기 (2023.02 ~ 2023.05) <br />
 </div>
 
 <h2 align="center"> 🦝 Me 🦝 </h2>
