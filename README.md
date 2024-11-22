@@ -108,5 +108,13 @@
 
 <br />
 
+## ✍️ Velog Post
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leehyewon0531)]([https://velog.io/@hsh111366/posts](https://velog.io/@leehyewon0531/posts))
+
+<br />
+
+## 📈 Code Stat
+
   ![leehyewon0531's github stats](https://github-readme-stats.vercel.app/api?username=leehyewon0531&show_icons=true) 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehyewon0531&layout=compact)](https://github.com/leehyewon0531)
