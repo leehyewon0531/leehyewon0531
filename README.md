@@ -22,10 +22,17 @@
     <br />
   </div>
   <div>
+    <b>Style : </b>
+    <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+    <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+    <br />
+  </div>
+  <div>
     <b>State Management : </b>
-    <img src="https://img.shields.io/badge/Recoil-0075EB?style=flat&logo=Recoil&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/>
     <img src="https://img.shields.io/badge/👻 Jotai-000000?style=flat&logo=Jotai&logoColor=white"/>
     <img src="https://img.shields.io/badge/🐻 Zustand-000000?style=flat&logo=Zustand&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Recoil-0075EB?style=flat&logo=Recoil&logoColor=white"/>
     <img src="https://img.shields.io/badge/MobX-FF9955?style=flat&logo=MobX&logoColor=white"/>
     <br />    
   </div>
@@ -69,6 +76,18 @@
   <li><b>SK Devocean Young</b> 3기 - 5CEAN 팀 팀장 (2024.03 ~ 2024.12)</li>
   <li><b>한국대학생IT경영학회 KUSITMS</b> 27기 (2023.02 ~ 2023.05)</li>
 </ul>
+
+<br />
+
+<h2>📜 Project</h2>
+
+| 프로젝트명     | 설명                                                     | 기술 스택 | 링크 |
+|----------------|----------------------------------------------------------|-----------|------|
+| 대학원 김선배🎓 | 예비 대학원생과 실제 대학원생 매칭 플랫폼                | <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/👻 Jotai-000000?style=flat&logo=Jotai&logoColor=white"/> | <a href="https://github.com/WE-ARE-RACCOONS/postgraduate-front">GitHub</a>, <a href="https://www.kimseonbae.com/">배포</a> |
+| 취얼업!💼       | 일정 등록부터 회고까지, 취준 프로세스 지원 서비스        | <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/🐻 Zustand-000000?style=flat&logo=Zustand&logoColor=white"/>  |   |
+| 오피츠🍋        | 일과 휴식을 함께, 워케이션 지원 서비스                   |   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/🐻 Zustand-000000?style=flat&logo=Zustand&logoColor=white"/> <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/>   |  <a href="https://github.com/WORK-NECTOR/OFFIZZ-FE">GitHub</a>, <a href="https://www.offizz.co.kr/">배포</a> |
+| 복Z세대🏥       | 고령층 친화적인 복지 정보 제공 서비스                    |  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white"/> <img src="https://img.shields.io/badge/Recoil-0075EB?style=flat&logo=Recoil&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white"/> | <a href="https://github.com/googoo9918/software-project-bokha">GitHub</a>  |
+| 다채💫          | 액티브 시니어를 위한 동네배움터 정보 제공 및 매칭 서비스 | <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Recoil-0075EB?style=flat&logo=Recoil&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white"/>  | <a href="https://github.com/KUSITMS-27-chilling/Dachae-FE">GitHub</a>   |
 
 <br />
 
