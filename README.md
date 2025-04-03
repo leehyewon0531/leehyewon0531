@@ -17,6 +17,7 @@
     <b>Framework & Library : </b>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
     <br />
@@ -71,6 +72,7 @@
 
 <h2> 💼 Career </h2>
 <ul>
+  <li><b>타인에이아이</b> - Technical Problem Solver (2025.02 ~ ing)</li>
   <li><b>이노그리드</b> - 하이브리드 플랫폼 팀 프론트엔드 개발 인턴 (2024.09 ~ 2024.11)</li>
   <li><b>(주)럽디</b> - 리데이트 팀 프론트엔드 개발 인턴 (2023.06 ~ 2023.08)</li>
 </ul>
@@ -91,6 +93,7 @@
 
 | 프로젝트명     | 설명                                                     | 기술 스택 | 링크 |
 |----------------|----------------------------------------------------------|-----------|------|
+| Y-edu👨‍🏫 | 초등 영어 & 수학 과외 매칭 플랫폼 | <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/🐻 Zustand-000000?style=flat&logo=Zustand&logoColor=white"/> <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/> | <a href="https://github.com/Y-edu/Y-edu-front">GitHub</a>
 | 대학원 김선배🎓 | 예비 대학원생과 실제 대학원생 매칭 플랫폼                | <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/👻 Jotai-000000?style=flat&logo=Jotai&logoColor=white"/> | <a href="https://github.com/WE-ARE-RACCOONS/postgraduate-front">GitHub</a> / <a href="https://www.kimseonbae.com/">서비스</a> / <a href="https://we-are-raccoons.github.io/RACCOONS/">기술 블로그</a> / <a href="https://velog.io/@leehyewon0531/%EB%8C%80%ED%95%99%EC%9B%90%EA%B9%80%EC%84%A0%EB%B0%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0">프로젝트 회고</a> |
 | 취얼업!💼       | 일정 등록부터 회고까지, 취준 프로세스 지원 서비스        | <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/🐻 Zustand-000000?style=flat&logo=Zustand&logoColor=white"/> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>  | <a href="https://github.com/SKT-5CEAN/front-end">GitHub</a>  |
 | 오피츠🍋        | 일과 휴식을 함께, 워케이션 지원 서비스                   |   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/🐻 Zustand-000000?style=flat&logo=Zustand&logoColor=white"/> <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/>   |  <a href="https://github.com/WORK-NECTOR/OFFIZZ-FE">GitHub</a> / <a href="https://www.offizz.co.kr/">서비스</a> |
