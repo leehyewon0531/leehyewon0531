@@ -121,7 +121,7 @@
 
 ## ✍️ Velog Post
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leehyewon0531)]([https://velog.io/@hsh111366/posts](https://velog.io/@leehyewon0531/posts))
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/leehyewon0531?theme=dark&posts=3)
 
 <br />
 
